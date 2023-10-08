@@ -1,0 +1,4 @@
+docbarcodes~=1.0.9
+opencv-python~=4.5.4.60
+numpy~=1.26.0
+pdf2image~=1.16.0
